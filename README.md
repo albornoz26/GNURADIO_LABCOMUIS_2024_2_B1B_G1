@@ -5,4 +5,4 @@ señales como esta:
 ![Texto alternativo](Practica_2/parte_B/SENO.png)
 
 Aqui se debe destacar la importancia del mantttenimiento de los equipos ya que durante el desarrollo de la misma practica se presenttaron inconvenientes debido al estado defectuoso de algunos radios.
-
+Tambien se analizo una señal .wav buscando comprender hasta que punto esta señal era comprensible porque se le estaba añadiendo ruido
